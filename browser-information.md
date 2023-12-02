@@ -138,11 +138,7 @@ http://www.domain.com/x/y/z/index.dna?a=b\&c=d then use \[thisurlplusget]
 
 
 **\[thisurl] when writing "Pretty URLs" using .htaccess**\
-When writing "pretty urls" using .htaccess \[thisurl] will
-
-NOT
-
-return the rewritten url, however there is a workaround if the "requested URL" is required.
+When writing "pretty urls" using .htaccess \[thisurl] will NOT return the rewritten url, however there is a workaround if the "requested URL" is required.
 
 Example:\
 \# This rule is to manage products when URL = http://domain.com/department/\[DEPT-URL]\
