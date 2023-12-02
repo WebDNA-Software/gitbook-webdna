@@ -9,7 +9,7 @@
 * [FIles & Folders](files-and-folders.md)
 * [Grep & Regex](grep-and-regex.md)
 * [JSON](json.md)
-* [How to use MISCELLANEOUS features of WebDNA](how-to-use-miscellaneous-features-of-webdna.md)
+* [Miscellaneous features](miscellaneous-features.md)
 * [Math](math.md)
 * [Passwords](passwords.md)
 * [Searching](searching.md)

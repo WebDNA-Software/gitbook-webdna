@@ -1,4 +1,4 @@
-# How to use MISCELLANEOUS features of WebDNA
+# Miscellaneous features
 
 ### \[! ] WebDNA v3.0+ [context](https://docs.webdna.us/contexts-and-tags)
 
