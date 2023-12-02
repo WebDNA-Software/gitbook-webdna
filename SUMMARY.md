@@ -3,7 +3,6 @@
 * [The complete list of all WebDNA instructions](README.md)
 * [Browser Information](browser-information.md)
 * [Cookies](cookies.md)
-* [Page 1](page-1.md)
 * [Databases & Tables](databases-and-tables.md)
 * [Date & Time](date-and-time.md)
 * [Encryption](encryption.md)
