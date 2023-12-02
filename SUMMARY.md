@@ -18,3 +18,7 @@
 * [Show & Hide](show-and-hide.md)
 * [SQL](sql.md)
 * [tcp connections](tcp-connections.md)
+* [Technical features](technical-features.md)
+* [Text Manipulation](text-manipulation.md)
+* [XML](xml.md)
+* [BIOTYPE](biotype.md)
