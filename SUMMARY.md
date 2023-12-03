@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The complete WebDNA instructions](README.md)
+* [Contexts vs Tags](contexts-vs-tags.md)
 * [Browser Information](browser-information.md)
 * [Cookies](cookies.md)
 * [Databases & Tables](databases-and-tables.md)
