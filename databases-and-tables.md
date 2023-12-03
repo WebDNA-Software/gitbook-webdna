@@ -1,6 +1,6 @@
 # Databases & Tables
 
-### \[append] [context](https://docs.webdna.us/contexts-and-tags)
+### \[append] [<mark style="color:red;">context</mark>](https://docs.webdna.us/contexts-and-tags)
 
 Appends a new record with the specified field values to the end of a database.
 

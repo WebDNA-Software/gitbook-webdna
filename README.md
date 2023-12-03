@@ -1,4 +1,13 @@
-# The complete list of all WebDNA instructions
+---
+description: >-
+  Launch your next web project with WebDNA. WebDNA is an easy-to-learn
+  server-side scripting language developed for creating feature rich,
+  database-driven websites
+cover: .gitbook/assets/Screen Shot 2023-12-03 at 11.00.12.png
+coverY: 0
+---
+
+# The complete WebDNA instructions
 
 **Browser Info**
 
