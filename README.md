@@ -113,7 +113,7 @@ XML is one of the most widely-used formats for sharing structured information to
 
 New to WebDNA v8.5, BioType is a behavioural biometrics function based on [ADGS](https://www.adgs.com/) research and development. BioType is based on the concept of behavioural biometrics, meaning the way people do things individually, such as speaking, writing, typing, walking styles.
 
-## [<mark style="color:red;">**Get WebDNA**</mark>](https://webdna.us)
+## [<mark style="color:red;">**Get WebDNA**</mark>](https://webdna.us/page.dna?numero=169)
 
 
 Launch your next web project with WebDNA.\
