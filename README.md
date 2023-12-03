@@ -9,7 +9,7 @@ coverY: 0
 
 # The complete WebDNA instructions
 
-## **Browser Info**
+## [**Browser Info**](browser-information.md)
 
 Often important in web development is to establish the browser information so that customised code can be targeted to certain browsers. The information gained can also be used to exclude some visitors based on their ip address or redirect browsers based on their connection method.
 
