@@ -9,6 +9,10 @@ coverY: 0
 
 # The complete WebDNA instructions
 
+## [<mark style="color:red;">**Contexts vs Tags**</mark>](contexts-vs-tags.md)
+
+WebDNA uses Contexts and Tags to communicate the programming logic to the WebDNA engine where it is rendered and results returned to the visitor's browser. A context has an opening and a closing, while a tag is a single command enclosed in square brackets.
+
 ## [<mark style="color:red;">**Browser Info**</mark>](browser-information.md)
 
 Often important in web development is to establish the browser information so that customised code can be targeted to certain browsers. The information gained can also be used to exclude some visitors based on their ip address or redirect browsers based on their connection method.
@@ -93,7 +97,7 @@ Connect to MySQL databases to send queries and use retrieved data in the same ef
 
 Most of the world’s HTTP communication is via TCP/IP, a layered set of packet-switched network protocols between computers and network devices. Messages can be exchanged between servers using TCP connections, WebDNA tools are able to provide these connections.
 
-## [<mark style="color:red;">**Technical**</mark>](technical.md)
+## [<mark style="color:red;">**Technical**</mark>](technical-features.md)
 
 
 When it comes to working outside the typical web site and transacting with other programs installed on a web server WebDNA comes to the fore with considered access to 'shell' and 'dos' scripting. WebDNA also has tools that help developers create typical "technical based outcomes".
@@ -102,6 +106,11 @@ When it comes to working outside the typical web site and transacting with other
 
 
 Text always needs to be manipulated in busy dynamic web sites. WebDNA has easy to use builtin tools to help you produce the exact results required when it comes to the demanding task of text formatting and verification
+
+## [<mark style="color:red;">**Text Variables**</mark>](text-variables.md)
+
+
+Text variables are fundamental building blocks of the WebDNA language. They are simple to understand and easy to weave into your code, letting you set a value once and reuse it throughout the page.
 
 ## [<mark style="color:red;">**XML**</mark>](xml.md)
 
