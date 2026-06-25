@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Claude Code / local agent tooling
+.claude/
+
+# GitBook local build / cache (legacy CLI)
+_book/
+.grunt/
+node_modules/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
